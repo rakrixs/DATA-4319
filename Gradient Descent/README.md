@@ -2,7 +2,7 @@
 
 ## Original Parabola
 
-![Grad2](img/parabola.png)
+![Grad2](img/parabola1.png)
 
 ## Results
 
