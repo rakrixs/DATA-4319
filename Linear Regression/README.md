@@ -2,8 +2,8 @@
 
 ## Original Plots
 
-![Linear](img/orig.png)
+![Linear](img/origi.png)
 
 ## Results
 
-![Linear1(img/result.png)
+![Linear1](img/result.png)
