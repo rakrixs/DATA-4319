@@ -2,8 +2,8 @@
 
 ## Original Image
 
-![Cluster1](img/img6.png)
+![Cluster1](img/img6.jpg)
 
 ## Results
 
-![Regression](img/inosuke.png)
+![Cluster2](img/inosuke.png)
