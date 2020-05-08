@@ -2,4 +2,4 @@
 
 ## Results
 
-![Tensor](img/results.png)
+![Tensor](img/final.png)
