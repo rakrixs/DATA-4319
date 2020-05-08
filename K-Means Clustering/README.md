@@ -4,6 +4,6 @@
 
 ![Cluster1](img/img6.jpg)
 
-## Results
+## Results at k = 32
 
 ![Cluster2](img/inosuke.png)
