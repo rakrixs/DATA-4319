@@ -2,8 +2,8 @@
 
 ## Original Plot
 
-![Logis](img/og.png)
+![Logis](img/result.png)
 
 ## Results
 
-![Logis](img/result.png)
+![Logis](img/og.png)
